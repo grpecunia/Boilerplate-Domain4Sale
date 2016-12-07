@@ -1,0 +1,4 @@
+# robots.txt for https://guspecunia.com/
+
+User-agent: *
+Disallow:  
