@@ -1,4 +1,4 @@
-# robots.txt for https://guspecunia.com/
+# robots.txt for https://example.com/
 
 User-agent: *
 Disallow:  
